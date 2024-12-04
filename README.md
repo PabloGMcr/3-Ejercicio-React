@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ----
 
-# Reporte: Ejercicio React 3
+## Reporte: Ejercicio React 3
 
 # Instalicones
 
